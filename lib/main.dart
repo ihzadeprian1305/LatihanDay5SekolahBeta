@@ -1,3 +1,4 @@
+// LATIHAN DAY 6
 import 'package:flutter/material.dart';
 
 void main() {
